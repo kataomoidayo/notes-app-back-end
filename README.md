@@ -1,2 +1,4 @@
 # notes-app-back-end
-Back-end with Hapi exercise
+Latihan Back-end dengan Hapi
+バックエンド練習ーHapi
+Back-end exercise with Hapi
